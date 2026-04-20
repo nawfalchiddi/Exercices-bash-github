@@ -11,7 +11,7 @@ do
 		echo "Hello"
 	elif [ $choice = 2 ]
 	then
-		echo ""
+		echo "20/04/2026"
 	elif [ $choice = 3 ]
 	then
 		echo "exiting..."
