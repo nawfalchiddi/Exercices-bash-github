@@ -20,7 +20,7 @@ do
             echo "the students has been seccessfully added."
         fi
 elif [ "$choice" == "2" ]; then
-		count=$(wc -l < "$CHD10F.txt")
+		count=$(wc -l < CHD10F.txt)
 	echo "Total students in file: $count"
 elif [ $choice = 3 ];
 then
